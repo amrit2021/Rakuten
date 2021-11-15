@@ -1,0 +1,27 @@
+t = 'a'
+print (t, type (t))
+
+t = 'amrit'
+print (t, type (t))
+
+t = 'amrti pradhan'
+print (t, type (t))
+
+t = '''i am amrit ,living\ in bnr'''
+print (t, type (t))
+
+t = 'i am amrit , living in bnr'
+print (t, type (t))
+
+#======================
+#length of string 
+
+t = 'i am amrit , living in bnr'
+print (t, type (t) , len(t))
+
+t = 'amrti pradhan'
+print (t, type (t) , len(t))
+
+#=================
+#Indexing 
+
